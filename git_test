@@ -1,0 +1,9 @@
+#this is a file to test git out 
+
+x = 0
+y = 4
+
+while y>x:
+    for x in range(y):
+    	print "echo"
+    	x++
